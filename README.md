@@ -1,11 +1,9 @@
-## Hi there 👋
-
 # 💫 About Me:
 🎓 Undergraduated Informatics Student at Universitas Diponegoro<br>📊 Passionate about Data Science and Machine Learning<br>💭 Interested in turning data into decisions
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentlidya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valent-danika-maulidya) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentlidya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valent-danika-maulidya-5ba984369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vdanic.vi) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vdanicc&theme=rose&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=vdanicc&theme=rose&hide_border=false)<br/>
