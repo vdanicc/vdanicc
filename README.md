@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Undergraduated Informatics Student at Universitas Diponegoro<br>📊 Passionate about Data Science and Machine Learning<br>💭 Interested in turning data into decisions
+🎓 Undergraduate Informatics Student at Universitas Diponegoro<br>📊 Passionate about Data Science and Machine Learning<br>💭 Interested in turning data into decisions
 
 
 ## 🌐 Socials:
