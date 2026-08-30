@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Valent+Danika+Maulidya+%F0%9F%91%8B;Informatics+Student+at+Universitas+Diponegoro;Currently+learning+Data+Science+%26+Machine+Learning;Open+to+collab+%26+new+opportunities+%F0%9F%9A%80;Always+curious%2C+always+learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🎓 Undergraduate Informatics Student at Universitas Diponegoro<br>📊 Passionate about Data Science and Machine Learning<br>💭 Interested in turning data into decisions
 
